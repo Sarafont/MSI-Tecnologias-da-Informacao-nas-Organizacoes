@@ -6,5 +6,4 @@ Informação nas Organizações do Mestrado em Sistemas de Informação, no ano 
 sob orientação da Professora Doutora Teresa Susana Mendes Pereira Bernardino. Consiste num
 relatório de grupo onde elenca uma abordagem estratégica de implementação de uma solução
 tecnológica, baseada no
-Cegid Vendus num restaurante. A escolha de um estabelecimento de
-restauração como contexto organizacional para a intervenção das TI, incidiu em dois fatores.
+Cegid Vendus num restaurante. 
